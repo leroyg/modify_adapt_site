@@ -179,3 +179,20 @@ margin-top: 0;
 .off-page{
   display: none;
 }
+
+/****************my styles**********************/
+
+#mce-EMAIL{
+  background: rgba(80,80,80, .75)
+}
+
+  #mce-EMAIL::-moz-placeholder {
+    color: #ddd;
+    opacity: 1;
+  }
+  #mce-EMAIL:-ms-input-placeholder {
+    color: #ddd;
+  }
+  #mce-EMAIL::-webkit-input-placeholder {
+    color: #ddd;
+  }
