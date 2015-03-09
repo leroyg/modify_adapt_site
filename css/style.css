@@ -78,7 +78,7 @@ margin-top: 0;
     margin-bottom: 20px;
     text-transform: capitalize;
 }
-.soon-form .form-control{
+.soon-form .form-control .mc_embed_signup{
     width:260px;
     margin-bottom: 0;
 }
@@ -136,6 +136,7 @@ margin-top: 0;
     box-shadow: none;
     -webkit-box-shadow: none;
 }
+
 /*****buttons***/
   .btn {
     font-weight: 400;
@@ -171,4 +172,10 @@ margin-top: 0;
     background-color:  rgba(0,0,0,0.6);
     text-align: center;
     margin-top: 50px;
+}
+
+/*****My General Classes/Sytles****/
+
+.off-page{
+  display: none;
 }
