@@ -78,6 +78,12 @@ label{
     background:#25CBF5; /* Firefox */
     color: #fff;
 }
+
+.article {
+    height: 0px;
+    overflow: hidden;
+}
+
 /**********bootstrap navigation overrides***********/
 .navbar-default {
     background-color: rgba(255,255,255,0.9);
